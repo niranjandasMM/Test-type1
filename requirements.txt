@@ -11,7 +11,7 @@ colorama==0.4.4
 comtypes==1.1.10
 cryptography==2.4.2
 cycler==0.10.0
-dataclasses==0.8
+dataclasses==0.6
 decorator==4.4.2
 Django==2.2b1
 django-cdnjs==2017.10.20.post2
