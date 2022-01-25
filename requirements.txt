@@ -13,8 +13,8 @@ cryptography==2.4.2
 cycler==0.10.0
 dataclasses==0.6
 decorator==4.4.2
-Django==2.2b1
-django-cdnjs==2017.10.20.post2
+Django==2.2
+django-cdnjs==2017.10.20
 Flask==2.0.2
 ftpclient==0.1
 gunicorn==20.1.0
