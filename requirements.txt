@@ -77,7 +77,6 @@ urllib3==1.24.1
 visions==0.7.4
 Werkzeug==2.0.2
 wifi==0.3.8
-windows-curses==1.0
 winwifi==0.0.17
 wpm==1.51.3
 zipp==3.6.0
