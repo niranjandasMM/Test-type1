@@ -57,7 +57,6 @@ python-nmap==0.6.1
 pyttsx3==2.90
 pytz==2018.9
 PyWavelets==1.1.1
-pywin32==303
 PyYAML==6.0
 regex==2021.11.10
 requests==2.26.0
