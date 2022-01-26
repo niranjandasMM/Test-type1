@@ -6,7 +6,7 @@ gunicorn==20.1.0
 itsdangerous==2.0.1
 Jinja2==3.0.3
 MarkupSafe==2.0.1
-pypiwin32==223
+pypiwin32==223 ;platform_system == "Windows"
 pyttsx3==2.90
 pywin32==301; platform_system == "Windows"
 Werkzeug==2.0.2
