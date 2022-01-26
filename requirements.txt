@@ -8,5 +8,4 @@ Jinja2==3.0.3
 MarkupSafe==2.0.1
 pypiwin32==223
 pyttsx3==2.90
-pywin32==303
 Werkzeug==2.0.2
